@@ -9,6 +9,7 @@ using System.Linq;
 using System.Dynamic;
 using System.Linq.Expressions;
 using AutoMapper.Internal;
+using AutoMapper.Mappers;
 
 namespace AutoMapper.UnitTests.ArraysAndLists
 {
